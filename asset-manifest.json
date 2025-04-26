@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Kunan-Teck/static/css/main.bf538fe7.css",
-    "main.js": "/Kunan-Teck/static/js/main.e692c4ed.js",
+    "main.js": "/Kunan-Teck/static/js/main.b6e3bf4f.js",
     "static/media/HeroImage.jpg": "/Kunan-Teck/static/media/HeroImage.c9968b4641aa5067ef8b.jpg",
     "index.html": "/Kunan-Teck/index.html",
     "main.bf538fe7.css.map": "/Kunan-Teck/static/css/main.bf538fe7.css.map",
-    "main.e692c4ed.js.map": "/Kunan-Teck/static/js/main.e692c4ed.js.map"
+    "main.b6e3bf4f.js.map": "/Kunan-Teck/static/js/main.b6e3bf4f.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.e692c4ed.js"
+    "static/js/main.b6e3bf4f.js"
   ]
 }
